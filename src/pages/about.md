@@ -3,15 +3,9 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-This is my profilo website built on [Astro](https://astro.build/) and [AstroPaper](https://github.com/satnaing/astro-paper).
+<img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
 
-<div>
-  <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
-</div>
-
-## Tech Stack
-
-This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
+This is my personal website built with [Astro](https://astro.build/) and [AstroPaper](https://github.com/satnaing/astro-paper), and hosted using [Cloudflare Pages](https://pages.cloudflare.com/)
 
 ## Features
 
@@ -24,8 +18,8 @@ Here are certain features of this site.
 - super fast performance
 - draft posts
 - pagination
-- sitemap & rss feed
-- highly customizable
+- sitemap & RSS feed
 
-If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).  
-Or you can even give any feedback via my [email](mailto:contact@satnaing.dev).
+## Tech Stack
+
+I have explored a fair number of different programming languages, including C, Rust, C#, Java/Kotlin, Python, JavaScript/TypeScript, Scheme, and Haskell, to name a few. Being a curious individual, I am naturally motivated to seek out various programming languages and technologies. They help me view problems from diverse perspectives and devise solutions that might be unknown to others.

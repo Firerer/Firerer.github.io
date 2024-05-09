@@ -11,7 +11,7 @@ description: My process of building this website and some of my thoughts.
 
 <!-- ## Table of contents -->
 
-It has long been in my head to have a personal site. I have delayed it for ages. Also, I didn't like the solutions out there. I tried Jekyll, Astro, etc. I did not like any of them in the hope of finding a simpler solution. I am sure a blogging service would work perfectly, but hey, I am a programmer; I should try myself, shouldn't I? Paradoxical, I know :\)
+It has long been in my head to create a personal website, but I've delayed this project for ages. I've experimented with Jekyll, Astro, and others, yet none have fully met my expectations in my quest for a simpler solution. Surely, a blogging service would suffice, but as a programmer, I should build it myself, right? Paradoxical, I know. :\)
 
 ## First Approach
 
@@ -26,11 +26,11 @@ I was too naive. I soon realized that after finishing my first post and having t
   - List item
 - Rename CSS class names
 
-These are all simple and common use cases. This is especially annoying when modifying the website's layout, I need to change multiple files and mistakes are highly likely. Not to mention some advanced features like RSS file generating, interactive components, etc.
+These are all simple and common use cases. This is especially annoying when modifying the website's layout. When I need to change multiple files manually, mistakes will be highly likely. Not to mention some advanced features like RSS file generating, interactive components, etc.
 
-Perhaps, we should think of HTML as an IR(intermediate representation), it is just too close to us which gives an illusion of being usable directly. [HTMX](https://htmx.org/) gives me the same kind of feeling as well. It is simple and refreshing to mark interaction in HTML tags but soon it becomes unmanageable with exploded API endpoints and I had this constant fear of making mistakes.
+Perhaps, we should think of HTML as an IR(intermediate representation) for non-trivial tasks, it is just too close to us which gives an illusion of being usable directly. [HTMX](https://htmx.org/) gives me the same kind of feeling as well. It is simple and refreshing to mark interaction in HTML tags but soon it becomes unmanageable with exploded API endpoints and I had this constant fear of making mistakes.
 
-## Final Approach
+## Current Approach
 
 [Astro](https://astro.build/) with [AstroPaper](https://github.com/satnaing/astro-paper) is my current choice and, hopefully, the final one. My skepticism towards using Astro (or any JavaScript framework) is their constantly evolving APIs and also fear of introducing a new level of complexity for this simple website.
 Surprisingly, I do not need to know a lot of Astro knowledge for my simple site and I am using an existing template that already has a bunch of nice defaults. It is easier to work with since I just need to work with markdown files most of the time.

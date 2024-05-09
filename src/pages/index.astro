@@ -11,8 +11,8 @@ import getSortedPosts from "@utils/getSortedPosts";
 import { SOCIALS } from "@config";
 
 const posts = await getCollection("blog");
-
 const sortedPosts = getSortedPosts(posts);
+/** WARN: no 2 view transition with same name on a page. */
 const featuredPosts = sortedPosts.filter(({ data }) => data.featured);
 const recentPosts = sortedPosts.filter(
   ({ data }, i) => !data.featured && i < 4
@@ -45,17 +45,25 @@ const socialCount = SOCIALS.filter(social => social.active).length;
       </a>
 
       <p>
-        I like the process building stuffs so coding is my thing. Maybe some
-        hardware stuff in the future.
+        I like the process exploring and crafting stuffs so coding is my thing.
+        Maybe some hardware stuff in the future.
       </p>
       <p>
-        Read the blog posts or check
+        Read the blog posts or check my
         <LinkButton
           className="underline decoration-dashed underline-offset-4 hover:text-skin-accent"
-          href=""
+          href="/resume.html"
         >
-          TODO
-        </LinkButton> for more info.
+          resume
+        </LinkButton>
+        or
+        <LinkButton
+          className="underline decoration-dashed underline-offset-4 hover:text-skin-accent"
+          href="/posts/list-of-recommendation/"
+        >
+          recommendations
+        </LinkButton>
+        for more info.
       </p>
       {
         // only display if at least one social link is enabled

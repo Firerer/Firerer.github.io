@@ -1,11 +1,11 @@
 import type socialIcons from "@assets/socialIcons";
 
 export const SITE = {
-  website: "https://astro-paper.pages.dev/",
+  website: "https://diliu.pages.dev/",
   author: "Di Liu",
   desc: "A minimal, responsive profilo website.",
   title: "Di's Website",
-  ogImage: "astropaper-og.jpg",
+  ogImage: "og.png",
   lightAndDarkMode: true,
   postPerPage: 10,
   scheduledPostMargin: 15 * 60_000, // 15 minutes
