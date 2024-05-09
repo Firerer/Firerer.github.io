@@ -3,7 +3,7 @@ import type socialIcons from "@assets/socialIcons";
 export const SITE = {
   website: "https://diliu.pages.dev/",
   author: "Di Liu",
-  desc: "A minimal, responsive profilo website.",
+  desc: "Di's minimal portfolio website for blogging and showcasing projects.",
   title: "Di's Website",
   ogImage: "og.png",
   lightAndDarkMode: true,
