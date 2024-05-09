@@ -1,3 +1,3 @@
-# Hi Firends
+# Hi
 
-Made with [AstroPaper](https://github.com/satnaing/astro-paper) by [Sat Naing](https://satnaing.dev) 👨🏻‍💻 and [contributors](https://github.com/satnaing/astro-paper/graphs/contributors).
+This repo is deployed to both [Cloudflare Pages](https://diliu.pages.dev/) and [GitHub Pages](https://firerer.github.io/)
