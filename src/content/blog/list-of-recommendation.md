@@ -1,5 +1,6 @@
 ---
 pubDatetime: 2024-05-04T17:44:40.000+10:00
+modDatetime: 2024-05-18
 title: My List of Recommendations
 featured: true
 tags:
@@ -25,13 +26,20 @@ I never finished any philosophy books because I find them hard to read (lengthy 
 
   > Whereof one cannot speak, thereof one must be silent.
 
-## Health & Longevity
+## Health & Wellbeing
 
-- The book [Why We Sleep](https://g.co/kgs/bxTRhgG), Dr. Matthew Walker.
+- The book [Why We Sleep](https://g.co/kgs/bxTRhgG), by Dr. Matthew Walker.
 
 - [Neural Network Newsletter](https://www.hubermanlab.com/newsletter), Dr. Andrew Huberman, Wellbeing.
 
-- [The Body of Knowledge](https://www.andygalpin.com/wheretostart), Dr. Andy Galpin, Web Page.
+- [Dr. Peter Attia](https://peterattiamd.com/)
+
+  - [Newsletter](https://peterattiamd.com/newsletter/), intro to health and longevity.
+  - [Health related info](https://peterattiamd.com/topics/)
+
+- [Scientific evidences by FoundMyFitness](https://www.foundmyfitness.com/topics)
+
+- [The Body of Knowledge](https://www.andygalpin.com/wheretostart), Dr. Andy Galpin, Web Page, exercise info.
 
 - [Nutrition Made Simple!](https://www.youtube.com/@NutritionMadeSimple)
 
@@ -49,8 +57,7 @@ I never finished any philosophy books because I find them hard to read (lengthy 
 ## News
 
 - [Hacker News](https://news.ycombinator.com/)
-- [Wikipedia:Reliable sources/Perennial sources](https://en.wikipedia.org/wiki/Wikipedia:Reliable_sources/Perennial_sources#Sources)
-- [All-In Padcast](https://www.allinpodcast.co/)
+- [Wikipedia: Reliable sources/Perennial sources](https://en.wikipedia.org/wiki/Wikipedia:Reliable_sources/Perennial_sources#Sources)
 
 ## Tech & Coding
 
