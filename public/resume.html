@@ -104,7 +104,16 @@
 
     .shadow {
       box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+
     }
+
+    @media print {
+      .shadow {
+        box-shadow: none
+      }
+    }
+
+
 
     .border-r {
       border-right: 1px solid var(--primary);
