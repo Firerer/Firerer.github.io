@@ -14,10 +14,9 @@ const posts = await getCollection("blog");
 const sortedPosts = getSortedPosts(posts);
 /** WARN: no 2 view transition with same name on a page. */
 const featuredPosts = sortedPosts.filter(({ data }) => data.featured);
-const recentPosts = sortedPosts.filter(
-  ({ data }, i) => !data.featured && i < 4
-);
-
+const recentPosts = sortedPosts
+  .filter(({ data }) => !data.featured)
+  .slice(0, 3);
 const socialCount = SOCIALS.filter(social => social.active).length;
 ---
 
