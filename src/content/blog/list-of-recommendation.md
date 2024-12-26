@@ -1,6 +1,6 @@
 ---
 pubDatetime: 2024-05-04T17:44:40.000+10:00
-modDatetime: 2024-05-18
+modDatetime: 2024-12-26
 title: My List of Recommendations
 featured: true
 tags:
@@ -26,33 +26,67 @@ I never finished any philosophy books because I find them hard to read (lengthy 
 
   > Whereof one cannot speak, thereof one must be silent.
 
+- [Philosophical Investigations](https://en.wikipedia.org/wiki/Philosophical_Investigations)
+
+  Language-games
+
 ## Health & Wellbeing
 
-- The book [Why We Sleep](https://g.co/kgs/bxTRhgG), by Dr. Matthew Walker.
+- Dr. Matthew Walker's [Why We Sleep](https://g.co/kgs/bxTRhgG)
 
-- [Neural Network Newsletter](https://www.hubermanlab.com/newsletter), Dr. Andrew Huberman, Wellbeing.
+- [Dr. Andrew Huberman](https://www.hubermanlab.com/)
+
+  - [Neural Network Newsletter](https://www.hubermanlab.com/newsletter): compact and actionable protocols.
+  - Affiliated with some non-trustworth products
 
 - [Dr. Peter Attia](https://peterattiamd.com/)
 
-  - [Newsletter](https://peterattiamd.com/newsletter/), intro to health and longevity.
-  - [Health related info](https://peterattiamd.com/topics/)
+  - Book [Outlive: The Science and Art of Longevity](https://peterattiamd.com/outlive/)
 
-- [Scientific evidences by FoundMyFitness](https://www.foundmyfitness.com/topics)
+    - Provides an overview of conclusions from current science on achieving optimal health.
+    - Counterpoint: [A Skeptic’s Review of Peter Attia’s "Outlive"](https://www.linkedin.com/pulse/skeptics-review-peter-attias-outlive-graham-walker-md-z6rsc/)
 
-- [The Body of Knowledge](https://www.andygalpin.com/wheretostart), Dr. Andy Galpin, Web Page, exercise info.
+  - [Newsletter](https://peterattiamd.com/newsletter/): frontier health science discoveries.
 
-- [Nutrition Made Simple!](https://www.youtube.com/@NutritionMadeSimple)
+- [Dr. Rhonda Patrick](https://www.foundmyfitness.com/)
 
-  Nutrition has a lot of nuances, and I cannot find any "best" diet, but in general whole foods are good, avoid highly processed food and high-sodium food.
+  - [Detailed scientific evidences](https://www.foundmyfitness.com/topics)
+  - [YouTube Channel](https://www.youtube.com/@FoundMyFitness)
+
+- [Dr. Andy Galpin](https://www.andygalpin.com)
+
+  - [The Body of Knowledge](https://www.andygalpin.com/wheretostart)
+  - [7 Variables To Create Better Training Programs](https://youtu.be/9ACVFJGvibU)
+
+- Matt Kaeberlein
+
+  - [The Optispan Podcast with Matt Kaeberlein](https://www.youtube.com/@optispan)
+
+- [Dr Brad Stanfield](https://www.youtube.com/@DrBradStanfield)
+
+  - Compact youtube videos
 
 - [Bryan Johnson](https://www.bryanjohnson.com/)
 
-  - a rich dude who doesn't wanna die
-  - credible data-driven approach, lack-of-evidence approaches, be skeptical.
+  - a rich dude who doesn't wanna die.
+  - has credible data-driven approaches and lack-of-evidence approaches, be skeptical.
 
-- [Physionic](https://www.youtube.com/@Physionic), YouTube channel, paper reading, evidence presenting.
+- [Physionic](https://www.youtube.com/@Physionic)
+
+  - YouTube channel, paper reading, evidence presenting.
+
+- [Nutrition Made Simple!](https://www.youtube.com/@NutritionMadeSimple)
+
+  Nutrition is nuanced; no single "best" diet exists. Whole foods are generally beneficial, while highly processed and high-sodium foods should be avoided.
 
 - [Conquer Aging Or Die Trying!](https://www.youtube.com/@conqueragingordietrying1797), YouTube channel, hardcore, data.
+
+  - Longivity topic YouTuber
+  - Financially feasible way of approaching optimal health.
+
+- [Siim Land](https://www.youtube.com/@SiimLand)
+  - Longivity topic YouTuber
+  - Financially feasible way of approaching optimal health.
 
 ## News
 
