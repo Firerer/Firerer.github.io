@@ -90,20 +90,30 @@ I never finished any philosophy books because I find them hard to read (lengthy 
 
 ## News
 
-- [Hacker News](https://news.ycombinator.com/)
 - [Wikipedia: Reliable sources/Perennial sources](https://en.wikipedia.org/wiki/Wikipedia:Reliable_sources/Perennial_sources#Sources)
 
 ## Tech & Coding
 
-- [Structure and Interpretation of Computer Programs (SICP)](<https://en.wikipedia.org/wiki/Structure_and_Interpretation_of_Computer_Programs#:~:text=Structure%20and%20Interpretation%20of%20Computer%20Programs%20(SICP)%20is%20a%20computer,Jay%20Sussman%20with%20Julie%20Sussman.>), a masterpiece.
-- [当然我在扯淡](https://www.yinwang.org/blog-cn/2015/11/21/programming-philosophy), Chinese blog.
+- [Hacker News](https://news.ycombinator.com/)
+- [Programming Digest](https://programmingdigest.net/)
+  - Weekly newsletter for software engineers
+- [Pointers](https://www.pointer.io/)
+  - Newsletter for Engineering Leaders
+- [科技爱好者周刊](https://github.com/ruanyf/weekly)
+- [Structure and Interpretation of Computer Programs (SICP)](<https://en.wikipedia.org/wiki/Structure_and_Interpretation_of_Computer_Programs#:~:text=Structure%20and%20Interpretation%20of%20Computer%20Programs%20(SICP)%20is%20a%20computer,Jay%20Sussman%20with%20Julie%20Sussman.>)
+  - book, a masterpiece.
+- [当然我在扯淡](https://www.yinwang.org/blog-cn/2015/11/21/programming-philosophy)
+  - Chinese blog, thinking about programming from first principle
   - [Programming Philosophy](https://www.yinwang.org/blog-cn/2015/11/21/programming-philosophy)
   - [Design patterns](https://www.yinwang.org/blog-cn/2013/03/07/design-patterns)
   - [Dry](https://www.yinwang.org/blog-cn/2015/06/14/dry-principle)
   - [Program correctness](https://www.yinwang.org/blog-cn/2015/07/02/program-correctness)
-- [Jon Gjengset](https://www.youtube.com/@jonhoo), YouTube Channel, Rust.
 - [Hyperplexed](https://www.youtube.com/@Hyperplexed), YouTube Channel, UI.
-- [A Thousand Brains](https://g.co/kgs/39m3VpE), Book, Brain theory.
+
+## Other Interesting Books
+
+- [A Thousand Brains](https://g.co/kgs/39m3VpE)
+  - Book, Brain theory.
 
 ## Tools
 
